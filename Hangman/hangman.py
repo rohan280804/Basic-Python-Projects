@@ -1,6 +1,6 @@
 import random
+from wordlist import words 
 
-words = ("apple", "orange", "bananna", "coconut","pineapple")
 
 hangman_art = {0:(" ",
                   " ",
