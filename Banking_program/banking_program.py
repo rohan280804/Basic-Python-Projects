@@ -61,6 +61,7 @@ def main():
             print(" Invalid input! ")
             print("**************************")
             print()
+            
     print()
     print("Thank you! Have a nice day")
     print()
